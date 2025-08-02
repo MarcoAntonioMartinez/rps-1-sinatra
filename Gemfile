@@ -15,6 +15,10 @@ gem "sinatra-activerecord"
 gem "http"
 gem "dotenv"
 
+# formatting gems
+gem "htmlbeautifier"
+gem "rufo"
+
 group :development do
   gem "better_errors"
   gem "binding_of_caller"
